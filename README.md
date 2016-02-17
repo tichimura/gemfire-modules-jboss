@@ -1,2 +1,2 @@
-# Eureka Server Sample
-This is test 3
+# GemFire HTTP Session Sample
+This is for concourse demo 
